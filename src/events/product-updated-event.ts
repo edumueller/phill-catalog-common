@@ -7,6 +7,6 @@ export interface ProductUpdatedEvent {
     version: number;
     name: string;
     price: number;
-    quantity: string;
+    quantity: number;
   };
 }
