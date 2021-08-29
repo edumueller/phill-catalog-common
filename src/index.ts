@@ -7,6 +7,7 @@ export * from './errors/not-found-error';
 export * from './errors/request-validation-error';
 export * from './errors/product-sync-fetch-error';
 export * from './errors/product-sync-post-error';
+export * from './errors/product-sync-version-error';
 
 export * from './middlewares/current-user';
 export * from './middlewares/error-handler';
